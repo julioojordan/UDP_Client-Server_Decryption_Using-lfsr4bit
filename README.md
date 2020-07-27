@@ -3,7 +3,7 @@
 <br>
 <p> This is the simple implementation of UPD client-server message encryption in <b> Python 3 </b>, i'm using the Linear Feedback Shift Register (LFSR) 4 bit method as the modern cryptography method </p>
 <p> if u guys using python 2 you should remove all the encode() and decode() function that are called in the server and client code </p>
-<p> there are 4 files in the project: </p>
+<p> there are 2 files in the project: </p>
 <ul> 
   <li> lfsr-client</li>
   <li> lfsr-server</li>
